@@ -1,0 +1,1 @@
+python -m nuitka --standalone --remove-output --windows-icon-from-ico=assets/icon.ico --output-dir=dist --output-filename=NetDrop.exe src/main.py

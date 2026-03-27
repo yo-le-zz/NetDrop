@@ -1,0 +1,11 @@
+# compilation
+nuitka
+
+# Interface TUI
+textual>=0.47.0
+ 
+# Cryptographie (SSL, certificats auto-signés)
+cryptography>=41.0.0
+ 
+# Rich est inclus automatiquement avec Textual
+# rich>=13.0.0
